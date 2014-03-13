@@ -1,5 +1,8 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+びん・かん・スプレー缶,,,img/bin02.svg,#2dc7aa
+新聞・雑誌・雑がみ・段ボール,,,img/paper02.svg,#3dc7aa
+プラスチック,,,img/pla02.svg,#4dc7aa
+ペットボトル,,,img/pet02.svg,#5dc7aa
+小型家電,,,img/kaden02.svg,#6dc7aa
+燃やせるごみ,,,img/moyasu02.svg,#ea3b13
+破砕ごみ類・有害ごみ,,,img/moyasanai02.svg,#733b96
