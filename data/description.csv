@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
 びん・かん・スプレー缶,,,img/bin02.svg,#2dc7aa
 新聞・雑誌・雑がみ・段ボール,,,img/shigen02.svg,#77ae1f
-プラスチック,,,img/shigen02.svg,##81d12e
+プラスチック,,,img/shigen02.svg,#81d12e
 ペットボトル,,,img/shigen02.svg,#27a047
 小型家電,,,img/shigen02.svg,#685ecf
 燃やせるごみ,,,img/moyasu02.svg,#ea3b13
-破砕ごみ類・有害ごみ,,,img/moyasanai02.svg,##733b96
+破砕ごみ類・有害ごみ,,,img/moyasanai02.svg,#733b96
